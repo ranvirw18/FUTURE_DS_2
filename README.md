@@ -95,3 +95,11 @@ Gender-wise performance breakdown
 Advanced DAX measures
 
 Improved dashboard design & interactivity
+
+📸 Dashboard Preview
+
+This screenshot shows a Power BI dashboard designed to present key insights in a clear and interactive manner. The dashboard combines multiple visualizations such as KPI cards, charts, and filters to help users quickly understand patterns, trends, and performance metrics.
+
+The report supports interactive exploration, allowing users to filter data dynamically and analyze results from different perspectives. It is built with a focus on data clarity, usability, and decision-making.
+<img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/fb0a2b05-442c-4dd3-b919-69eb86223c6e" />
+
